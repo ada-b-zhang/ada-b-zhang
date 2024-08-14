@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ada-b-zhang
-- 👀 I’m interested in data science, statistics, classical violin, running, and calligraphy
-- 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me: Email (abz200026@gmail.com), Phone (540-538-3639)
+- 👋 Hi, I’m Ada the Data Scientist!
+- 🎓 My degree is in statistics 
+- 📊 Specifically, I love natural language processing and data visualization
+- 💜 My hobbies include classical violin, running, and calligraphy
+- 💬 Feel free to reach out by email (abz200026@gmail.com)
 
 <!---
 ada-b-zhang/ada-b-zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
