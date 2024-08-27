@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ada the Data Scientist!
 - 🎓 My degree is in statistics 
-- 📊 Specifically, I love natural language processing and data visualization
+- 📊 Specifically, I love natural language processing, data visualization, and machine learning
 - 💜 My hobbies include classical violin, running, and calligraphy
 - 💬 Feel free to reach out by email (abz200026@gmail.com)
 
