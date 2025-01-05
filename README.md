@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ada the Data Scientist!
+# Hi, I’m Ada the Data Scientist!
 - 🎓 My degree is in statistics 
 - 📊 Specifically, I love natural language processing, data visualization, and machine learning
 - 💜 My hobbies include classical violin, running, and calligraphy
