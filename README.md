@@ -3,7 +3,8 @@
 - 📊 Specifically, I love natural language processing, data visualization, and machine learning
 - 💜 My hobbies include classical violin, running, and calligraphy
 - 💬 Feel free to reach out by email (abz200026@gmail.com)
-- 😃 Here is my [LinkedIn](https://www.linkedin.com/in/ada-zhang-430231212/) 
+- 😃 Here is my [LinkedIn](https://www.linkedin.com/in/ada-zhang-430231212/)!
+- 🕸️ Here is my [personal website](https://ada-b-zhang.github.io/adazhang/)!
 
 <!---
 ada-b-zhang/ada-b-zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
